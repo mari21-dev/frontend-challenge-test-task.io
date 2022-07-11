@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.81678806.css",
-    "main.js": "/static/js/main.d0aa4b74.js",
-    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "index.html": "/index.html",
-    "static/media/like-icon.svg": "/static/media/like-icon.f7d0fb0a8164db3d536c.svg",
-    "static/media/like-hover.svg": "/static/media/like-hover.93afdbdc8effd0f2c072.svg",
-    "static/media/like-icon-active.svg": "/static/media/like-icon-active.38e93f169f1e0bc78525.svg",
-    "static/media/close-icon.svg": "/static/media/close-icon.2ceb783afbab75916ddc.svg",
-    "main.81678806.css.map": "/static/css/main.81678806.css.map",
-    "main.d0aa4b74.js.map": "/static/js/main.d0aa4b74.js.map"
+    "main.css": "/frontend-challenge-test-task.io/static/css/main.2b8a56e0.css",
+    "main.js": "/frontend-challenge-test-task.io/static/js/main.8c258022.js",
+    "static/media/Roboto-Regular.ttf": "/frontend-challenge-test-task.io/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/frontend-challenge-test-task.io/index.html",
+    "static/media/like-icon.svg": "/frontend-challenge-test-task.io/static/media/like-icon.f7d0fb0a8164db3d536c.svg",
+    "static/media/like-hover.svg": "/frontend-challenge-test-task.io/static/media/like-hover.93afdbdc8effd0f2c072.svg",
+    "static/media/like-icon-active.svg": "/frontend-challenge-test-task.io/static/media/like-icon-active.38e93f169f1e0bc78525.svg",
+    "static/media/close-icon.svg": "/frontend-challenge-test-task.io/static/media/close-icon.2ceb783afbab75916ddc.svg",
+    "main.2b8a56e0.css.map": "/frontend-challenge-test-task.io/static/css/main.2b8a56e0.css.map",
+    "main.8c258022.js.map": "/frontend-challenge-test-task.io/static/js/main.8c258022.js.map"
   },
   "entrypoints": [
-    "static/css/main.81678806.css",
-    "static/js/main.d0aa4b74.js"
+    "static/css/main.2b8a56e0.css",
+    "static/js/main.8c258022.js"
   ]
 }
