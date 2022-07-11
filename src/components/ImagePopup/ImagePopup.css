@@ -1,0 +1,19 @@
+.popup__figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+
+.popup__image {
+  max-width: 75vw;
+  max-height: 75vh;
+}
+
+.popup__subtitle {
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.25;
+}

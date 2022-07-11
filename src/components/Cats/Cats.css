@@ -1,0 +1,63 @@
+.cats {
+    padding: 30px;
+    text-align: center;
+}
+
+@media (min-width: 1440px) {
+    .cats {
+        padding: 52px 0 30px
+    }
+}
+
+.cats__cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 225px);
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 48px;
+}
+
+@media (min-width: 680px) {
+    .cats__cards-wrapper {
+        grid-template-columns:repeat(2, 225px);
+    }
+}
+
+@media (min-width: 768px) {
+    .cats__cards-wrapper {
+        grid-template-columns:repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .cats__cards-wrapper {
+        grid-template-columns:repeat(4, 225px);
+    }
+}
+
+@media (min-width: 1440px) {
+    .cats__cards-wrapper {
+        grid-template-columns:repeat(5, 225px);
+        gap: 48px;
+    }
+}
+
+.cats__button-append {
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    line-height: 1.5;
+    letter-spacing: 0.25px;
+    cursor: pointer;
+    transition: .3s all ease-in-out;
+}
+
+.cats__button-append:hover {
+    opacity: 0.6;
+}
+
+.cats__button-append:focus {
+    opacity: 0.6;
+}
+
+

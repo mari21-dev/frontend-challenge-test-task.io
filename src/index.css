@@ -1,0 +1,9 @@
+@import url(./vendor/normalize.css);
+
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/src/vendor/fonts/Roboto-Regular.ttf") format("ttf");
+}
